@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=calculadora
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ calculadora\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ b\ c
+comment1.target=java.lang.String\ ecuacion(double,\ double,\ double)
+comment2.params=x1\ x2\ y1\ y2
+comment2.target=java.lang.String\ puntos(double,\ double,\ double,\ double)
+comment3.params=cateto1\ hipotenusa
+comment3.target=double\ catetotriangulo(double,\ double)
+numComments=4
